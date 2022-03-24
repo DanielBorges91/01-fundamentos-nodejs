@@ -1,0 +1,8 @@
+{
+  "name": "01-fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielBorges91/01-fundamentos-nodejs.git",
+  "author": "Daniel Borges <danprog91@gmail.com>",
+  "license": "MIT"
+}
